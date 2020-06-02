@@ -5,7 +5,7 @@
 	<groupId>com.sample</groupId>
 	<artifactId>HelloFramework</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>war</packaging>	
 
 	<properties>
 		<springframework.version>5.0.4.RELEASE</springframework.version>
@@ -19,6 +19,7 @@
 		<mysql.connector.version>8.0.13</mysql.connector.version>
 		<jackson.databind.version>2.9.5</jackson.databind.version>
 		<junit.version>3.8.1</junit.version>
+		<gradle.version>0.0.1</gradle.version>
 
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
